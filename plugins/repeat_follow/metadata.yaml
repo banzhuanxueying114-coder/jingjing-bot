@@ -1,0 +1,5 @@
+name: repeat_follow
+display_name: 复读跟风
+desc: "同一个群里三个人以上发同一句话时，跟着复读一次（每群 2 分钟冷却）"
+version: 1.1.0
+author: DSH

@@ -1,0 +1,4 @@
+name: websearch
+desc: 给模型一个查外面的工具，描述短、结果短，省 token
+author: DSH
+version: 1.0.0

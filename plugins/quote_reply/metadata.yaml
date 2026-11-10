@@ -1,0 +1,5 @@
+name: quote_reply
+desc: 默认不引用；只有答的不是群里最新那条时才补引用
+version: 1.0.0
+author: DSH
+repo: ""

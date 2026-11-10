@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "min_people": 3,
+  "cooldown_seconds": 120,
+  "window_seconds": 90,
+  "max_text_len": 60
+}

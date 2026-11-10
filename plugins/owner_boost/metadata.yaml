@@ -1,0 +1,4 @@
+name: owner_boost
+desc: 管理员在群里没 @ 机器人时，也有更高概率被主动回复
+author: DSH
+version: 1.0.0

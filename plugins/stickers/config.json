@@ -1,0 +1,14 @@
+{
+  "random_p": 0.19,
+  "group_cooldown": 120,
+  "max_per_hour": 30,
+  "keywords": [
+    "表情包",
+    "发个表情",
+    "来个表情",
+    "出个表情",
+    "斗图",
+    "发图"
+  ],
+  "keyword_cooldown": 15
+}

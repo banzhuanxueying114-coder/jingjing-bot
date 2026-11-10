@@ -1,0 +1,5 @@
+name: crowd_guard
+desc: 大群按人数折半「非 @」回复概率，每 400 人砍一半
+version: 1.0.0
+author: DSH
+repo: ""

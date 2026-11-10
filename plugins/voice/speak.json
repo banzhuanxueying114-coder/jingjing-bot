@@ -1,0 +1,9 @@
+{
+  "enabled": true,
+  "calm_chance": 0.1,
+  "angry_chance": 0.5,
+  "angry_anger": 26.0,
+  "pitch": 5,
+  "voice": "zh-CN-XiaoyiNeural",
+  "max_chars": 60
+}

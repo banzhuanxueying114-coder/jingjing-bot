@@ -1,0 +1,4 @@
+name: censor_fallback
+desc: "在指定群里，模型拒答或回复被安全策略拦下时，改成一句短的"
+author: DSH
+version: 1.1.0

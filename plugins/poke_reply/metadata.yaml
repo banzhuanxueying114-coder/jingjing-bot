@@ -1,0 +1,4 @@
+name: poke_reply
+desc: 被拍一拍时做出回应（走 LLM 链路，保留当前群的人设）
+author: DSH
+version: 1.0.0

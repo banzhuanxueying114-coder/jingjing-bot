@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "windows": [
+    [
+      "09:00",
+      "12:00"
+    ],
+    [
+      "14:00",
+      "18:00"
+    ]
+  ],
+  "fast_source_id": "",
+  "fast_multiplier": 2.0
+}

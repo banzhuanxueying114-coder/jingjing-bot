@@ -1,0 +1,4 @@
+name: clause_split
+desc: 短回复里的逗号改成直接断成两个气泡，去掉逗号
+author: DSH
+version: 1.0.0

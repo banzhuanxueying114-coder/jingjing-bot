@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "cooldown_seconds": 10,
+  "max_per_hour": 20,
+  "cache_keep": 60,
+  "llm_source_id": "",
+  "llm_with_image": true
+}

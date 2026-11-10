@@ -1,0 +1,49 @@
+{
+  "base": {
+    "valence": 12.0,
+    "arousal": 40.0,
+    "anger": 0.0
+  },
+  "decay": {
+    "valence": 5.0,
+    "arousal": 7.0,
+    "anger": 2.5
+  },
+  "mood_step_cap": 20.0,
+  "grudge_raw": 1.0,
+  "grudge_sour": 0.4,
+  "grudge_decay_days": 7.0,
+  "grudge_heat": 6.0,
+  "grudge_mood": 3.0,
+  "tag_ttl_h": {
+    "得意": 3,
+    "恼火": 2,
+    "委屈": 6,
+    "无聊": 2,
+    "黏人": 3,
+    "警惕": 2,
+    "心虚": 1,
+    "好奇": 1,
+    "厌烦": 4,
+    "兴奋": 2,
+    "羞臊": 2,
+    "记恨": 5
+  },
+  "raw_anger": 26.0,
+  "raw_valence": -12.0,
+  "sour_anger": 10.0,
+  "sour_valence": -6.0,
+  "cold_valence": 2.0,
+  "cold_arousal": 26.0,
+  "hi_arousal": 62.0,
+  "hit_full": 4,
+  "hit_window_s": 7200,
+  "ledger_keep_days": 7,
+  "pick_base": 0.04,
+  "pick_max": 0.15,
+  "pick_cooldown_s": 120,
+  "wake_min_s": 3600,
+  "keepers": {},
+  "gentle_keepers": [],
+  "owner_name": ""
+}

@@ -1,0 +1,4 @@
+name: memorize
+desc: 轻量本地记忆，记住用户和群说过的事，注入时几乎不增加 token
+author: DSH
+version: 1.0.0

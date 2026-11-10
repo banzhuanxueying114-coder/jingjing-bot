@@ -1,0 +1,5 @@
+name: voice
+desc: "群里@机器人 唱<歌名或BV号>，用本地 RVC 音色翻唱整首，回一条语音"
+version: 1.0.0
+author: DSH
+repo: ""

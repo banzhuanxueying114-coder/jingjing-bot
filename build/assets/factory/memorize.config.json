@@ -1,0 +1,16 @@
+{
+  "max_notes": 4,
+  "max_note_len": 60,
+  "profile_cap": 2500,
+  "inject_tail": 500,
+  "inject_tail_deep": 1200,
+  "auto_impression": true,
+  "auto_every": 20,
+  "auto_cooldown": 7200,
+  "auto_group": true,
+  "group_every": 40,
+  "group_cooldown": 14400,
+  "group_cap": 4,
+  "group_window": 30,
+  "group_line_len": 60
+}

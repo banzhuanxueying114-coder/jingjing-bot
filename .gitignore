@@ -1,0 +1,27 @@
+# 构建产物、模型权重与大文件
+
+out/
+dist/
+*.7z
+*.zip
+*.exe
+
+# 运行时状态：每台机器自己生成
+**/mood.json
+**/notes.json
+**/pace.json
+**/__pycache__/
+*.pyc
+
+# 本机脱敏规则（模板见 secret_patterns.example.py）
+secret_patterns.py
+
+# 安装向导的记录文件
+安装记录.json
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

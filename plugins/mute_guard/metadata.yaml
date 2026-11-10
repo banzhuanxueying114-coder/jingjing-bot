@@ -1,0 +1,5 @@
+name: mute_guard
+desc: 群禁言期间不调用 LLM，禁言通知实时记账、未知状态按需查成员信息
+version: 1.0.0
+author: DSH
+repo: ""
